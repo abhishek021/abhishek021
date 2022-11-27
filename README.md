@@ -1,6 +1,4 @@
-<p align="center"><a href="https://abhishek021.github.io"><img width="80%" alt="Hello, I'm Abhishek. I love open source!"/></a></p>
-
-<!--- src="./assets/gh-readme-header.png" /></a></p> --->
+<p align="center"><a href="https://abhishek021.github.io">Hello, I'm Abhishek. I love open source!"</p>
 
 <br />
 I'm a passionate DevOps Engineer from India 🇮🇳
