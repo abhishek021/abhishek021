@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @abhishek021
+<p align="center"><a href="https://abhishek021.github.io"><img width="80%" alt="Hello, I'm Abhishek. I love open source!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
+I'm a passionate DevOps Engineer from India 🇮🇳
+<br />
+
 - 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently working as a DevOps Engineer at Sigmoid.
+- 🌱 I’m currently working as a DevOps Engineer - II at <a href="https://www.sigmoid.com/">Sigmoid</a>
 - 💞️ I like to explore bigdata projects
 - 📫 You can reach me on abhimishra021@gmail.com
 
